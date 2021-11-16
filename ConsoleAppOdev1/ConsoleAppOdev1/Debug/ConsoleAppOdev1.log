@@ -1,0 +1,6 @@
+﻿  ConsoleAppOdev1.cpp
+C:\Users\karab\Documents\GitHub\Programlamaya-Giris\ConsoleAppOdev1\ConsoleAppOdev1\ConsoleAppOdev1.cpp(24,15): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+C:\Users\karab\Documents\GitHub\Programlamaya-Giris\ConsoleAppOdev1\ConsoleAppOdev1\ConsoleAppOdev1.cpp(28,15): warning C4018: '>': imzalı/imzasız uyuşmazlığı
+C:\Users\karab\Documents\GitHub\Programlamaya-Giris\ConsoleAppOdev1\ConsoleAppOdev1\ConsoleAppOdev1.cpp(46,15): warning C4244: 'bağımsız değişken': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+C:\Users\karab\Documents\GitHub\Programlamaya-Giris\ConsoleAppOdev1\ConsoleAppOdev1\ConsoleAppOdev1.cpp(47,26): warning C4018: '>': imzalı/imzasız uyuşmazlığı
+  ConsoleAppOdev1.vcxproj -> C:\Users\karab\Documents\GitHub\Programlamaya-Giris\ConsoleAppOdev1\Debug\ConsoleAppOdev1.exe
